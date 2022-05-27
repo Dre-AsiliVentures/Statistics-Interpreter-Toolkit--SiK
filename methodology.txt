@@ -1,0 +1,4 @@
+=========================available module -statistics (Python)=========
+CurrentUse: Mean, Median (Low and High), Median_grouped, Mode, Square deviation, Variance, Pvariance, Stdev.
+
+Future Use (After mod): Kurtosis, Skewness, Range, Confidence Interval, Z-scores, Percentiles, Co-Efficient of variation, 
