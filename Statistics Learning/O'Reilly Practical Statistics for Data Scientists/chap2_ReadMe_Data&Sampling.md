@@ -1,4 +1,4 @@
-Chapter 1: Data and Sampling Distributions
+Chapter 2: Data and Sampling Distributions
 Book reference: Practical Statistics for Data Scientists 50+
                 Essential concepts Using R and Python
     Publisher : O'Reilly
